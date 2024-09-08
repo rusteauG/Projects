@@ -26,3 +26,12 @@ C Projects/
 │   ├── README.md   # 
 │   ├── main.c      #
 │   └──
+
+## 🔥 Featured Projects
+
+| Project Name       | Description                                                | Status      |
+|--------------------|------------------------------------------------------------|-------------|
+| Basic Calculator   | A simple console-based calculator for basic arithmetic    | Complete    |
+| Tic-Tac-Toe        | A command-line Tic-Tac-Toe game with AI implementation     | In Progress |
+| File I/O           | A project demonstrating reading and writing to files in C | Complete    |
+| Data Structures    | Implementation of basic data structures (linked lists, stacks, queues) | Planned     |
